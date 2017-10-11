@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-E9V5JU0</Machine>
+    <WindowsUser>osbal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9f22c031-e2f5-46ca-aef7-737c56086c4a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=osbal</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\css\ui-dark.min.css">
+      <PackagePath>WinJS\css\ui-dark.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\css\ui-light.min.css">
+      <PackagePath>WinJS\css\ui-light.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\130.scale-140.jpg">
+      <PackagePath>images\130.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\add.js">
+      <PackagePath>pages\add\add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\addAir.js">
+      <PackagePath>pages\add\addAir.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\added.js">
+      <PackagePath>pages\add\added.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\aircraft\air.js">
+      <PackagePath>pages\aircraft\air.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\aircraft\airinfo.js">
+      <PackagePath>pages\aircraft\airinfo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\delete\delete.js">
+      <PackagePath>pages\delete\delete.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\delete\deleteAir.js">
+      <PackagePath>pages\delete\deleteAir.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\edit\edit.js">
+      <PackagePath>pages\edit\edit.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\edit\editAir.js">
+      <PackagePath>pages\edit\editAir.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user.js">
+      <PackagePath>pages\user\user.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user2.js">
+      <PackagePath>pages\user\user2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user3.js">
+      <PackagePath>pages\user\user3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\base.min.js">
+      <PackagePath>WinJS\js\base.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\ui.min.js">
+      <PackagePath>WinJS\js\ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>WinJS\js\WinJS.intellisense-setup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\WinJS.intellisense.js">
+      <PackagePath>WinJS\js\WinJS.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\add.html">
+      <PackagePath>pages\add\add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\addAir.html">
+      <PackagePath>pages\add\addAir.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\add\added.html">
+      <PackagePath>pages\add\added.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\aircraft\aircraft.html">
+      <PackagePath>pages\aircraft\aircraft.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\aircraft\airinfo.html">
+      <PackagePath>pages\aircraft\airinfo.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\delete\delete.html">
+      <PackagePath>pages\delete\delete.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\delete\deleteAir.html">
+      <PackagePath>pages\delete\deleteAir.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\edit\edit.html">
+      <PackagePath>pages\edit\edit.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\edit\editAir.html">
+      <PackagePath>pages\edit\editAir.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user.html">
+      <PackagePath>pages\user\user.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user2.html">
+      <PackagePath>pages\user\user2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\pages\user\user3.html">
+      <PackagePath>pages\user\user3.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\base.min.js.map">
+      <PackagePath>WinJS\js\base.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\js\ui.min.js.map">
+      <PackagePath>WinJS\js\ui.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\License.txt">
+      <PackagePath>WinJS\License.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\WinJS\README.md">
+      <PackagePath>WinJS\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\osbal\Documents\Visual Studio 2015\Projects\final\final\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

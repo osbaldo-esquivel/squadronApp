@@ -1,0 +1,15 @@
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bin\Debug\ReverseMap\resources.pri
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bin\Debug\AppxManifest.xml
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bin\Debug\final.build.appxrecipe
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\priconfig.xml
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\priconfig.xml.intermediate
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\layout.resfiles
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\layout.resfiles.intermediate
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\resources.resfiles
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\resources.resfiles.intermediate
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\pri.resfiles
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\pri.resfiles.intermediate
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\qualifiers.txt
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\qualifiers.txt.intermediate
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\osbal\documents\visual studio 2015\Projects\final\final\bld\Debug\ProjectArchitectures.txt
